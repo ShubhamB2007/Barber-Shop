@@ -35,15 +35,15 @@ export const Services = [
 export const Testimonials = [
   {
     "name": "Mike Johnson",
-    "review": "I've been getting my hair cut at PMC Barbershop for over 2 years now. The attention to detail is unmatched, and the atmosphere is always welcoming."
+    "review": "I've been getting my hair cut at Fama Barbershop for over 2 years now. The attention to detail is unmatched, and the atmosphere is always welcoming."
   },
   {
     "name": "David Martinez",
-    "review": "As someone who's particular about their haircut, I was nervous trying a new place. The team at PMC took their time to understand what I wanted and delivered exactly that. Will definitely be coming back!"
+    "review": "As someone who's particular about their haircut, I was nervous trying a new place. The team at Fama took their time to understand what I wanted and delivered exactly that. Will definitely be coming back!"
   },
   {
     "name": "Chris Taylor",
-    "review": "The hot towel shave experience at PMC Barbershop is phenomenal! It's the perfect blend of old-school barbering with modern techniques. My beard has never looked better."
+    "review": "The hot towel shave experience at Fama Barbershop is phenomenal! It's the perfect blend of old-school barbering with modern techniques. My beard has never looked better."
   }
 ]
 
