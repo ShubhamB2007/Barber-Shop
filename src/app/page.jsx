@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 
 export default function Home() {
   return (
-      <div className="w-screen h-screen bg-[#1a1a1a] text-white>  
+      <div className="w-screen h-screen bg-[#1a1a1a] text-white">  
         <section>
             <Hero/>
         </section>
